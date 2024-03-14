@@ -2,3 +2,4 @@ lab7/
 mlartifacts
 mlruns
 __pycache__
+.DS_Store
